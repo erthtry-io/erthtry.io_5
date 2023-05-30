@@ -1,0 +1,8 @@
+pandas
+numpy
+sklearn
+optuna
+heapq
+tensorflow_similarity
+plotly
+tensorflow
